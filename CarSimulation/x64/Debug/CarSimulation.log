@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\willi\Desktop\CarSimulation-main\main.cpp(70,65): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  CarSimulation.vcxproj -> C:\Users\willi\source\repos\CarSimulation\x64\Debug\CarSimulation.exe
